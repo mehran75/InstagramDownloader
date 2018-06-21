@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">اینستادانلود</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">برای دانلود پست های اینستاگرام مراحل زیر را  انجام دهید
+\n\n
+1.دانلود خودکار را فعال نمایید و از برنامه خارج شوید
+\n\n
+2.در اینستاگرام و در بالای پست … را انتخاب کنید و copy share url را لمس نمایید
+\n\n
+3.منتظر بمانید تا لینک دانلود برای شما آماده شود.
+        \n\n
+        4.(در دانلود دستی ویدیو ها بصورت خودکار ذخیره میشوند اما برای دخیره عکس کافیست پس از دانلود روی آن چند ثانیه نگهدارید)
+</string>
+    <string name="auto_download">دانلود خودکار</string>
+    <string name="caption">کپشن</string>
+    <string name="post_link">لینک پست</string>
+    <string name="copy_caption">کپی کردن کپشن</string>
+</resources>
